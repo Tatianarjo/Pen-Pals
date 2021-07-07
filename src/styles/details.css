@@ -1,0 +1,47 @@
+
+body {
+	background-color: #FAD4C0;
+    margin: 3rem;
+}
+
+h1, h2 {
+    color: #64B6AC;
+}
+
+.field {
+    display: flex;
+    padding: 1rem;
+}
+
+.letterForm {
+    display: flex;
+    flex-direction:column;
+    color: #6247aa;
+}
+
+/* .input {
+    width: 20rem;
+    height: 10rem;
+} */
+
+.letterRequests {
+    color: #05668d;
+}
+
+li {
+    background-color: lightblue;
+    padding: 3rem;
+    margin: .3rem .3rem 3rem;
+    width: 30%;
+    border-radius: 15rem;
+    color: black;
+}
+
+#sendLetter {
+    display:inline-block;
+    width: 15rem;
+    box-shadow: 0 8px 16px 0;
+    border-radius: 2rem;
+
+}
+
